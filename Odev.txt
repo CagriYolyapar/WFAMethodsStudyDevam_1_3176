@@ -1,0 +1,1 @@
+﻿Su ana kadar yaptıgımız bütün projeleri (at yarısı, bahis, dövüs oyunu vs...) inceleyerek burada nereleri refactor edip metoda alabilirsiniz tespit edip o ilgili kısımları metoda almanızı ve dolayısıyla kodu sadelestirip temizlemenizi istiyorum

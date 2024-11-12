@@ -15,6 +15,8 @@ namespace WFAMethodsStudy_1
         /*
          
         Bir kod blogunu metodun icerisine almak istiyorsanız ilgili kod blogunu secin ve ctrl + r(efactor) + m(ethod) tus kombinasyonuna basın...CIkan pencereden yeni olusturulacak metodun ismini vererek apply'a basın...Kesinlikle private static keyword'leri aklınızı karıstırmasın...
+
+        Eger dilerseniz local alanda yazdıgınız ve parantezlerini verdiginiz bir isme ctrl+. tus kombinasyonunu kullanarak ve generate method diyerek o isimde bir metot olusturabilirsiniz...
          
          
          
@@ -36,6 +38,13 @@ namespace WFAMethodsStudy_1
             {
 
             }
+
+            Deneme();
+        }
+
+        private static void Deneme()
+        {
+            
         }
     }
 }
